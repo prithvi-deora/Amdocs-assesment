@@ -1,0 +1,4 @@
+com\bezkoder\spring\jpa\h2\repository\UserRepository.class
+com\bezkoder\spring\jpa\h2\SpringBootJpaH2Application.class
+com\bezkoder\spring\jpa\h2\controller\UserController.class
+com\bezkoder\spring\jpa\h2\model\User.class
